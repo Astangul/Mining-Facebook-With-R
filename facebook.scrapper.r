@@ -1,4 +1,9 @@
 
+#######################################################################
+# This is old and nonfunctional code
+# Facebook API changed several times since this script was published
+
+
 facebook.login <- function(email, password, verbose=FALSE) {
 # login user to facebook, return curl handle (CHandle)
 
